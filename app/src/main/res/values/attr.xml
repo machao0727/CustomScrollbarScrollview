@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomScrollViewLayout">
+        <attr name="thumb_drawable" format="reference" />
+        <attr name="track_drawable" format="reference" />
+    </declare-styleable>
+</resources>
