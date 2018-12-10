@@ -10,7 +10,7 @@
         android:id="@+id/mScrollView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:thumb_drawable="@drawable/scroll_thumb"
+        app:thumb_drawable="@mipmap/ic_indicator"
         app:track_drawable="@drawable/scroll_track">
 
     </com.machao.customscrollbarscrollview.customscrollbar.CustomScrollViewLayout>
